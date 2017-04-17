@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<test-run id="2" name="NUnitMCV.Tests.dll" fullname="C:/GIT/NUnitMCV/NUnitMCV/NUnitMCV/NUnitMCV.Tests/bin/Debug/netcoreapp1.1/NUnitMCV.Tests.dll" testcasecount="2" result="Failed" start-time="2017-04-16 20:31:46Z" end-time="2017-04-16 20:31:50Z" duration="4.086758" total="2" passed="0" failed="2" inconclusive="0" skipped="0" asserts="0" random-seed="1056394284">
+<test-run id="2" name="NUnitMCV.Tests.dll" fullname="C:/GIT/NUnitMCV/NUnitMCV/NUnitMCV/NUnitMCV.Tests/bin/Debug/netcoreapp1.1/NUnitMCV.Tests.dll" testcasecount="2" result="Failed" start-time="2017-04-17 12:07:20Z" end-time="2017-04-17 12:07:34Z" duration="14.596177" total="2" passed="0" failed="2" inconclusive="0" skipped="0" asserts="0" random-seed="138393140">
   <filter />
-  <test-suite type="Assembly" id="1004" name="NUnitMCV.Tests.dll" fullname="C:/GIT/NUnitMCV/NUnitMCV/NUnitMCV/NUnitMCV.Tests/bin/Debug/netcoreapp1.1/NUnitMCV.Tests.dll" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-04-16 20:31:46Z" end-time="2017-04-16 20:31:50Z" duration="4.086758" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="0">
+  <test-suite type="Assembly" id="1004" name="NUnitMCV.Tests.dll" fullname="C:/GIT/NUnitMCV/NUnitMCV/NUnitMCV/NUnitMCV.Tests/bin/Debug/netcoreapp1.1/NUnitMCV.Tests.dll" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-04-17 12:07:20Z" end-time="2017-04-17 12:07:34Z" duration="14.596177" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="0">
     <environment framework-version="3.6.1.0" clr-version=".NET Core 4.6.25009.03" os-version="Microsoft Windows 10.0.14393 " cwd="C:\GIT\NUnitMCV\NUnitMCV\NUnitMCV\NUnitMCV.Tests" machine-name="DESKTOP-KL868KU" culture="en-US" uiculture="en-US" os-architecture="X64" />
     <settings>
       <setting name="WorkDirectory" value="C:\GIT\NUnitMCV\NUnitMCV\NUnitMCV\NUnitMCV.Tests" />
@@ -9,19 +9,19 @@
     <failure>
       <message><![CDATA[One or more child tests had errors]]></message>
     </failure>
-    <test-suite type="TestSuite" id="1005" name="NUnitMCV" fullname="NUnitMCV" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-04-16 20:31:46Z" end-time="2017-04-16 20:31:50Z" duration="4.081204" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <test-suite type="TestSuite" id="1005" name="NUnitMCV" fullname="NUnitMCV" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-04-17 12:07:20Z" end-time="2017-04-17 12:07:34Z" duration="14.589660" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="0">
       <failure>
         <message><![CDATA[One or more child tests had errors]]></message>
       </failure>
-      <test-suite type="TestSuite" id="1006" name="Tests" fullname="NUnitMCV.Tests" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-04-16 20:31:46Z" end-time="2017-04-16 20:31:50Z" duration="4.081117" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestSuite" id="1006" name="Tests" fullname="NUnitMCV.Tests" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-04-17 12:07:20Z" end-time="2017-04-17 12:07:34Z" duration="14.589553" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="0">
         <failure>
           <message><![CDATA[One or more child tests had errors]]></message>
         </failure>
-        <test-suite type="TestFixture" id="1000" name="BackendControllerTests" fullname="NUnitMCV.Tests.BackendControllerTests" classname="NUnitMCV.Tests.BackendControllerTests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2017-04-16 20:31:46Z" end-time="2017-04-16 20:31:50Z" duration="4.024335" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="1000" name="BackendControllerTests" fullname="NUnitMCV.Tests.BackendControllerTests" classname="NUnitMCV.Tests.BackendControllerTests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2017-04-17 12:07:20Z" end-time="2017-04-17 12:07:34Z" duration="14.139693" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="0">
           <failure>
             <message><![CDATA[One or more child tests had errors]]></message>
           </failure>
-          <test-case id="1001" name="BackendAppSettingsTest" fullname="NUnitMCV.Tests.BackendControllerTests.BackendAppSettingsTest" methodname="BackendAppSettingsTest" classname="NUnitMCV.Tests.BackendControllerTests" runstate="Runnable" seed="1586921055" result="Failed" start-time="2017-04-16 20:31:46Z" end-time="2017-04-16 20:31:50Z" duration="4.016828" asserts="0">
+          <test-case id="1001" name="BackendAppSettingsTest" fullname="NUnitMCV.Tests.BackendControllerTests.BackendAppSettingsTest" methodname="BackendAppSettingsTest" classname="NUnitMCV.Tests.BackendControllerTests" runstate="Runnable" seed="2121100033" result="Failed" start-time="2017-04-17 12:07:20Z" end-time="2017-04-17 12:07:34Z" duration="14.131316" asserts="0">
             <failure>
               <message><![CDATA[  Expected: OK
   But was:  NoContent
@@ -48,11 +48,11 @@ at NUnit.Framework.Internal.Commands.TestMethodCommand.RunAsyncTestMethod(TestEx
             </assertions>
           </test-case>
         </test-suite>
-        <test-suite type="TestFixture" id="1002" name="FrontendControllerTests" fullname="NUnitMCV.Tests.FrontendControllerTests" classname="NUnitMCV.Tests.FrontendControllerTests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2017-04-16 20:31:50Z" end-time="2017-04-16 20:31:50Z" duration="0.055209" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="1002" name="FrontendControllerTests" fullname="NUnitMCV.Tests.FrontendControllerTests" classname="NUnitMCV.Tests.FrontendControllerTests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2017-04-17 12:07:34Z" end-time="2017-04-17 12:07:34Z" duration="0.446950" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="0">
           <failure>
             <message><![CDATA[One or more child tests had errors]]></message>
           </failure>
-          <test-case id="1003" name="FrontendAppSettingsTest" fullname="NUnitMCV.Tests.FrontendControllerTests.FrontendAppSettingsTest" methodname="FrontendAppSettingsTest" classname="NUnitMCV.Tests.FrontendControllerTests" runstate="Runnable" seed="1703498369" result="Failed" label="Error" start-time="2017-04-16 20:31:50Z" end-time="2017-04-16 20:31:50Z" duration="0.054876" asserts="0">
+          <test-case id="1003" name="FrontendAppSettingsTest" fullname="NUnitMCV.Tests.FrontendControllerTests.FrontendAppSettingsTest" methodname="FrontendAppSettingsTest" classname="NUnitMCV.Tests.FrontendControllerTests" runstate="Runnable" seed="836577446" result="Failed" label="Error" start-time="2017-04-17 12:07:34Z" end-time="2017-04-17 12:07:34Z" duration="0.446582" asserts="0">
             <failure>
               <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
               <stack-trace><![CDATA[   at NUnitMCV.Tests.FrontendControllerTests.<FrontendAppSettingsTest>d__0.MoveNext() in C:\GIT\NUnitMCV\NUnitMCV\NUnitMCV\NUnitMCV.Tests\FrontendControllerTests.cs:line 14

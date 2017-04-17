@@ -11,7 +11,7 @@ namespace NUnitMCV.Tests
         protected TestServer _server;
 
         [SetUp]
-        protected void SetUp()
+        public void SetUp()
         {
             _server = new TestServer(new WebHostBuilder()
                 .UseStartup<Backend.Startup>()
@@ -20,7 +20,7 @@ namespace NUnitMCV.Tests
         }
 
         [TearDown]
-        protected void TearDown()
+        public void TearDown()
         {
             _client.Dispose();
             _server.Dispose();
